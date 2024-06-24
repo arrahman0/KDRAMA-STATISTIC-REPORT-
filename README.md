@@ -4,7 +4,7 @@ IBM Frontend college project
 This was done in the college for the data analysis project and also
 frontend project.
 
-This one was created using #tml and #css
+This one was created using #html and #css
 
 the html is used to build the skeleton of the code and 
 
